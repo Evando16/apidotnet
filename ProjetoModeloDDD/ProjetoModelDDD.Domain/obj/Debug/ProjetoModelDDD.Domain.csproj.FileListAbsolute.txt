@@ -1,0 +1,4 @@
+D:\Projects\ASP.NET MVC 5\ProjetoModeloDDD\ProjetoModelDDD.Domain\bin\Debug\ProjetoModelDDD.Domain.dll
+D:\Projects\ASP.NET MVC 5\ProjetoModeloDDD\ProjetoModelDDD.Domain\bin\Debug\ProjetoModelDDD.Domain.pdb
+D:\Projects\ASP.NET MVC 5\ProjetoModeloDDD\ProjetoModelDDD.Domain\obj\Debug\ProjetoModelDDD.Domain.dll
+D:\Projects\ASP.NET MVC 5\ProjetoModeloDDD\ProjetoModelDDD.Domain\obj\Debug\ProjetoModelDDD.Domain.pdb

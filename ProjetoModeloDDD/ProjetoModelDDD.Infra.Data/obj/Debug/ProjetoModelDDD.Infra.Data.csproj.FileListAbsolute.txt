@@ -1,0 +1,12 @@
+D:\Projects\ASP.NET MVC 5\ProjetoModeloDDD\ProjetoModelDDD.Infra.Data\bin\Debug\ProjetoModelDDD.Infra.Data.dll.config
+D:\Projects\ASP.NET MVC 5\ProjetoModeloDDD\ProjetoModelDDD.Infra.Data\bin\Debug\ProjetoModelDDD.Infra.Data.dll
+D:\Projects\ASP.NET MVC 5\ProjetoModeloDDD\ProjetoModelDDD.Infra.Data\bin\Debug\ProjetoModelDDD.Infra.Data.pdb
+D:\Projects\ASP.NET MVC 5\ProjetoModeloDDD\ProjetoModelDDD.Infra.Data\bin\Debug\EntityFramework.dll
+D:\Projects\ASP.NET MVC 5\ProjetoModeloDDD\ProjetoModelDDD.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\ASP.NET MVC 5\ProjetoModeloDDD\ProjetoModelDDD.Infra.Data\bin\Debug\ProjetoModelDDD.Domain.dll
+D:\Projects\ASP.NET MVC 5\ProjetoModeloDDD\ProjetoModelDDD.Infra.Data\bin\Debug\ProjetoModelDDD.Domain.pdb
+D:\Projects\ASP.NET MVC 5\ProjetoModeloDDD\ProjetoModelDDD.Infra.Data\bin\Debug\EntityFramework.xml
+D:\Projects\ASP.NET MVC 5\ProjetoModeloDDD\ProjetoModelDDD.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\ASP.NET MVC 5\ProjetoModeloDDD\ProjetoModelDDD.Infra.Data\obj\Debug\ProjetoModelDDD.Infra.Data.csprojResolveAssemblyReference.cache
+D:\Projects\ASP.NET MVC 5\ProjetoModeloDDD\ProjetoModelDDD.Infra.Data\obj\Debug\ProjetoModelDDD.Infra.Data.dll
+D:\Projects\ASP.NET MVC 5\ProjetoModeloDDD\ProjetoModelDDD.Infra.Data\obj\Debug\ProjetoModelDDD.Infra.Data.pdb
