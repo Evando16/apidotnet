@@ -1,0 +1,9 @@
+E:\Projects\apidotnet\ProjetoModeloDDD\ProjetoModelDDD.Application\bin\Debug\ProjetoModelDDD.Application.dll
+E:\Projects\apidotnet\ProjetoModeloDDD\ProjetoModelDDD.Application\bin\Debug\ProjetoModelDDD.Application.pdb
+E:\Projects\apidotnet\ProjetoModeloDDD\ProjetoModelDDD.Application\bin\Debug\ProjetoModelDDD.Domain.dll
+E:\Projects\apidotnet\ProjetoModeloDDD\ProjetoModelDDD.Application\bin\Debug\ProjetoModelDDD.Domain.pdb
+E:\Projects\apidotnet\ProjetoModeloDDD\ProjetoModelDDD.Application\bin\Debug\ProjetoModelDDD.Domain.dll.config
+E:\Projects\apidotnet\ProjetoModeloDDD\ProjetoModelDDD.Application\obj\Debug\ProjetoModelDDD.Application.csprojResolveAssemblyReference.cache
+E:\Projects\apidotnet\ProjetoModeloDDD\ProjetoModelDDD.Application\obj\Debug\ProjetoModelDDD.Application.csproj.CoreCompileInputs.cache
+E:\Projects\apidotnet\ProjetoModeloDDD\ProjetoModelDDD.Application\obj\Debug\ProjetoModelDDD.Application.dll
+E:\Projects\apidotnet\ProjetoModeloDDD\ProjetoModelDDD.Application\obj\Debug\ProjetoModelDDD.Application.pdb

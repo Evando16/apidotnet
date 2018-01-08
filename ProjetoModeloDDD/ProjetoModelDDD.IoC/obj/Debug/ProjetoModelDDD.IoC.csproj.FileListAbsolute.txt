@@ -1,0 +1,2 @@
+E:\Projects\apidotnet\ProjetoModeloDDD\ProjetoModelDDD.IoC\obj\Debug\ProjetoModelDDD.IoC.csprojResolveAssemblyReference.cache
+E:\Projects\apidotnet\ProjetoModeloDDD\ProjetoModelDDD.IoC\obj\Debug\ProjetoModelDDD.IoC.csproj.CoreCompileInputs.cache

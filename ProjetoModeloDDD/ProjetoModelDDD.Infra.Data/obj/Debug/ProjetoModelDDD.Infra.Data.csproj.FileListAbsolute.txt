@@ -10,3 +10,17 @@ D:\Projects\ASP.NET MVC 5\ProjetoModeloDDD\ProjetoModelDDD.Infra.Data\bin\Debug\
 D:\Projects\ASP.NET MVC 5\ProjetoModeloDDD\ProjetoModelDDD.Infra.Data\obj\Debug\ProjetoModelDDD.Infra.Data.csprojResolveAssemblyReference.cache
 D:\Projects\ASP.NET MVC 5\ProjetoModeloDDD\ProjetoModelDDD.Infra.Data\obj\Debug\ProjetoModelDDD.Infra.Data.dll
 D:\Projects\ASP.NET MVC 5\ProjetoModeloDDD\ProjetoModelDDD.Infra.Data\obj\Debug\ProjetoModelDDD.Infra.Data.pdb
+E:\Projects\apidotnet\ProjetoModeloDDD\ProjetoModelDDD.Infra.Data\bin\Debug\ProjetoModelDDD.Infra.Data.dll.config
+E:\Projects\apidotnet\ProjetoModeloDDD\ProjetoModelDDD.Infra.Data\bin\Debug\ProjetoModelDDD.Infra.Data.dll
+E:\Projects\apidotnet\ProjetoModeloDDD\ProjetoModelDDD.Infra.Data\bin\Debug\ProjetoModelDDD.Infra.Data.pdb
+E:\Projects\apidotnet\ProjetoModeloDDD\ProjetoModelDDD.Infra.Data\bin\Debug\EntityFramework.dll
+E:\Projects\apidotnet\ProjetoModeloDDD\ProjetoModelDDD.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\Projects\apidotnet\ProjetoModeloDDD\ProjetoModelDDD.Infra.Data\bin\Debug\ProjetoModelDDD.Domain.dll
+E:\Projects\apidotnet\ProjetoModeloDDD\ProjetoModelDDD.Infra.Data\bin\Debug\ProjetoModelDDD.Domain.pdb
+E:\Projects\apidotnet\ProjetoModeloDDD\ProjetoModelDDD.Infra.Data\bin\Debug\ProjetoModelDDD.Domain.dll.config
+E:\Projects\apidotnet\ProjetoModeloDDD\ProjetoModelDDD.Infra.Data\bin\Debug\EntityFramework.xml
+E:\Projects\apidotnet\ProjetoModeloDDD\ProjetoModelDDD.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\Projects\apidotnet\ProjetoModeloDDD\ProjetoModelDDD.Infra.Data\obj\Debug\ProjetoModelDDD.Infra.Data.csprojResolveAssemblyReference.cache
+E:\Projects\apidotnet\ProjetoModeloDDD\ProjetoModelDDD.Infra.Data\obj\Debug\ProjetoModelDDD.Infra.Data.csproj.CoreCompileInputs.cache
+E:\Projects\apidotnet\ProjetoModeloDDD\ProjetoModelDDD.Infra.Data\obj\Debug\ProjetoModelDDD.Infra.Data.dll
+E:\Projects\apidotnet\ProjetoModeloDDD\ProjetoModelDDD.Infra.Data\obj\Debug\ProjetoModelDDD.Infra.Data.pdb

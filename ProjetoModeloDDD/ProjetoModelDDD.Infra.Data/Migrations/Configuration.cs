@@ -1,4 +1,4 @@
-namespace ProjetoModelDDD.Infra.Data.Migrations
+namespace ProjetoModeloDDD.Infra.Data.Migrations
 {
     using System;
     using System.Data.Entity;
